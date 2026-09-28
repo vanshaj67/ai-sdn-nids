@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# CICIDS2017 original dataset
+data/external/
+
+# Large processed/training datasets
+data/processed/
+data/splits/
+
+# Runtime flow data
+data/flows/*.csv
+
+# Temporary/log files
+*.log
+*.tmp
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+

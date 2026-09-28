@@ -1,0 +1,15 @@
+{
+    "model": "ExtraTreesClassifier",
+    "evaluation_split": "test",
+    "accuracy": 0.9758333178978453,
+    "balanced_accuracy": 0.8893920789641594,
+    "macro_precision": 0.6853973707151382,
+    "macro_recall": 0.8893920789641594,
+    "macro_f1": 0.7134915663367669,
+    "weighted_f1": 0.985932468127254,
+    "test_rows": 377917,
+    "features": 70,
+    "classes": 15,
+    "evaluation_seconds": 2.6845932006835938,
+    "model_retrained": false
+}

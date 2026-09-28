@@ -1,0 +1,17 @@
+{
+    "processing_engine": "DuckDB",
+    "memory_limit": "2GB",
+    "threads": 2,
+    "original_rows": 2827876,
+    "initial_features": 78,
+    "constant_features_removed": 8,
+    "remaining_features": 70,
+    "conflicting_feature_groups_removed": 697,
+    "conflicting_rows_removed": 6666,
+    "duplicate_rows_removed": 301806,
+    "reliable_unique_rows": 2519404,
+    "training_rows": 1763576,
+    "validation_rows": 377911,
+    "test_rows": 377917,
+    "split_method": "Deterministic stratified 70/15/15 split using feature hashes"
+}

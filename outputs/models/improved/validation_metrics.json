@@ -1,0 +1,21 @@
+{
+    "model": "ExtraTreesClassifier",
+    "accuracy": 0.9761107774052621,
+    "balanced_accuracy": 0.9230786454856177,
+    "macro_precision": 0.72758348467101,
+    "macro_recall": 0.9230786454856177,
+    "macro_f1": 0.7431273955219557,
+    "weighted_f1": 0.9861107162760248,
+    "training_sample_rows": 143925,
+    "validation_rows": 377911,
+    "features": 70,
+    "classes": 15,
+    "maximum_samples_per_class": 30000,
+    "number_of_trees": 150,
+    "max_depth": 30,
+    "min_samples_split": 4,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "random_state": 42,
+    "training_and_evaluation_seconds": 12.104873180389404
+}

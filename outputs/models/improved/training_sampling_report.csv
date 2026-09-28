@@ -1,0 +1,16 @@
+class_name,complete_training_count,sampled_training_count
+BENIGN,1466052,30000
+Bot,1363,1363
+DDoS,89607,30000
+DoS GoldenEye,7200,7200
+DoS Hulk,120901,30000
+DoS Slowhttptest,3659,3659
+DoS slowloris,3768,3768
+FTP-Patator,4151,4151
+Heartbleed,7,7
+Infiltration,25,25
+PortScan,63091,30000
+SSH-Patator,2253,2253
+Web Attack - Brute Force,1029,1029
+Web Attack - SQL Injection,14,14
+Web Attack - XSS,456,456

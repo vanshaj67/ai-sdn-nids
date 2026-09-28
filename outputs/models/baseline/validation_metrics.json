@@ -1,0 +1,17 @@
+{
+    "accuracy": 0.7798476360836282,
+    "balanced_accuracy": 0.6370675273506391,
+    "macro_precision": 0.29959150969843446,
+    "macro_recall": 0.6370675273506391,
+    "macro_f1": 0.2965405638610283,
+    "weighted_f1": 0.8441072260034875,
+    "training_sample_rows": 441322,
+    "validation_rows": 377911,
+    "features": 70,
+    "classes": 15,
+    "sample_fraction_for_large_classes": 0.25,
+    "rare_class_threshold_per_chunk": 1000,
+    "epochs": 5,
+    "random_state": 42,
+    "training_seconds": 15.262778043746948
+}
